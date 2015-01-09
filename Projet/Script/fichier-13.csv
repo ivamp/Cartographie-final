@@ -1,0 +1,12 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+D6:AE:EC:7E:8D:7A, 2015-01-07 23:10:53, 2015-01-07 23:10:58,  6,  54, OPN ,       ,   , -61,       36,        0,   0.  0.  0.  0,   6, orange, 
+D0:AE:EC:7E:8D:7A, 2015-01-07 23:10:53, 2015-01-07 23:10:57,  6,  54, WPA2WPA , CCMP TKIP,PSK, -59,       31,      383,   0.  0.  0.  0,   8, Capucine, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+74:E5:43:60:1B:93, 2015-01-07 23:10:53, 2015-01-07 23:10:57, -127,      357, D0:AE:EC:7E:8D:7A,
+6C:AD:F8:74:D1:DB, 2015-01-07 23:10:54, 2015-01-07 23:10:54, -127,        4, D0:AE:EC:7E:8D:7A,
+14:74:11:DA:6A:AD, 2015-01-07 23:10:54, 2015-01-07 23:10:54, -72,        2, D0:AE:EC:7E:8D:7A,
+78:A8:73:3F:7B:F3, 2015-01-07 23:10:57, 2015-01-07 23:10:57, -42,       13, D0:AE:EC:7E:8D:7A,
+0C:8B:FD:29:E5:9B, 2015-01-07 23:10:55, 2015-01-07 23:10:55, -38,        2, D0:AE:EC:7E:8D:7A,
+

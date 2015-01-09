@@ -1,0 +1,6 @@
+Cisco
+Lexmark
+D-Link
+Alcatel
+Ricoh
+HP embedded, Philips embedded

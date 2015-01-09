@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 10 déc. 2014, 20:30:22
+    Author     : malk
+*/
+@font-face { font-family: myFontName; };
+
+body{
+
+    background-color: #D0D0D0;
+}
+.center{
+    text-align: center;
+}
+.gras{
+    font-weight: bold;
+}
+.size22{
+    font-size: 22px;
+}
+.titreRubrique{
+    color:black;
+    font-size:16px;
+    text-align: center;
+    font-weight: bold;
+}
+.cadreRubrique{
+    background-color: #F3F3F3;
+    border: 2px solid #7B7773;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 1px;
+    color:black;
+    font-size: 14px;
+    text-align: justify;
+
+}
+.alignLeft{
+    text-align: left;
+
+}
+.alignRight{
+    text-align: right;
+}
+.margeTop20{
+    margin-top:20px;
+}
+
+.margeTop10{
+    margin-top:10px;
+}
+
+.ligneBas{
+    border-bottom: 1px solid #7B7773;
+}
+.ligneTop{
+    border-top: 1px solid #7B7773;
+}
+
+.maxWidth100{
+    width: 100px;
+}
+.alertBox{
+    background-color: #F3F3F3;
+    border: 2px solid #7B7773;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 1px;
+    color:black;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.bouton
+{
+    color:#0000ff;
+    font-size:24px;
+    cursor:pointer;
+}
+.bouton:hover
+{
+    text-decoration:underline;
+}
+.texte
+{
+    border:1px solid #333333;
+    background:#eeeeee;
+    padding:10px;
+    color:#333333;
+}
+.texte:hover
+{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}

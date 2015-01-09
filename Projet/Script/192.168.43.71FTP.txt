@@ -1,0 +1,2 @@
+drwxr-xr-x    2 0        0            4096 Jan 03 14:18 TestDossier2
+drwxr-xr-x    2 0        0            4096 Jan 03 13:19 dossierFTP
